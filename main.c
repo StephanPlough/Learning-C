@@ -2,7 +2,10 @@
 
 int main()
 {
-    printf("First name: Stephan\n");
-    printf("Age: 28\n");
-    printf("Gender: Male\n");
+    printf("  * \n");
+    printf(" * *\n");
+    printf("* * *\n\n");
+
+    printf("  *  \n * *\n* * *\n");
+    return 0;
 }
